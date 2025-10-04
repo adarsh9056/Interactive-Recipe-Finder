@@ -59,3 +59,43 @@ It then calculates the percentage of matched ingredients and displays recipes me
 1. Clone this repository:  
    ```bash
    git clone https://github.com/adarsh9056/Interactive-Recipe-Finder.git
+
+2. Navigate to the project folder:  
+   ```bash
+   cd Interactive-Recipe-Finder
+   ```
+
+3. Open the `index.html` file in your browser.  
+   *(Optional)* You can use a local server like:  
+   ```bash
+   npx live-server
+   ```
+
+---
+
+## Key Results
+
+✅ Successfully filters and recommends recipes based on user ingredients.  
+✅ Provides real-time, responsive UI without page reloads.  
+✅ Lightweight static frontend suitable for quick deployment or learning projects.  
+
+---
+
+## Future Improvements
+
+- Add recipe search by name or cuisine type  
+- Enable saving favorite recipes locally  
+- Integrate voice input for ingredients  
+- Display nutrition and calorie details  
+
+---
+
+## Contributor
+
+**Adarsh Gupta**
+
+---
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
